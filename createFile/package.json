@@ -1,0 +1,14 @@
+{
+  "name": "createfile",
+  "version": "1.0.0",
+  "description": "cli which creates your prepared files",
+  "main": "index.js",
+  "bin" : {
+    "create" : "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saba silagadze",
+  "license": "ISC"
+}
