@@ -2,13 +2,15 @@
 
 CLI for creating prepeared files to avoid repeating same code in different projects.
 
-
+<br>
+<br>
 
 # Storing Your Files
 
 You must store your files in "file" folder
 
-
+<br>
+<br>
 
 # Usage
 
