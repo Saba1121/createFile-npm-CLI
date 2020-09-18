@@ -7,7 +7,14 @@ CLI for creating prepeared files to avoid repeating same code in different proje
 
 # Storing Your Files
 
-You must store your files in "file" folder
+You must set folder location where your prepared files are stored using "setFolderLocation"  
+
+<br>
+<br>
+
+# getFolderLocation
+
+Returns folder location
 
 <br>
 <br>
